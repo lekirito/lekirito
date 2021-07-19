@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on projects related to Artificial Intellgience
 - 👨‍💻 Don't worry. I also code a lot as well.
-- 📚 I’m currently learning more JavaScript FrontEnd Framework, Flutter and NodeJS (and probably Laravel in the near future)
+- 📚 I’m currently learning more JavaScript FrontEnd Framework, Flutter and NodeJS (as well as probably Laravel in the near future)
 
 <br/>
 
@@ -15,12 +15,13 @@
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 <br/>
 
-<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api?username=danialsim95&custom_title=Danial%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Danial's GitHub stats"/>
+<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api?username=danialsim95&custom_title=Danial%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Danial's GitHub stats"/>
 
-<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api/top-langs/?username=danialsim95&count_private=true&theme=dark" alt="Danial's Top Languages"/>
+<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api/top-langs/?username=danialsim95&count_private=true&theme=radical" alt="Danial's Top Languages"/>
 
 <br/>
 
