@@ -2,7 +2,7 @@
 
 ### Read a little bio about me
 
-- 🔭 I’m currently working on projects related to Artificial Intellgience
+- 🔭 I’m currently working on projects related to Artificial Intellgence
 - 👨‍💻 Don't worry. I also code a lot as well.
 - 📚 I’m currently learning more JavaScript FrontEnd Framework, Flutter and NodeJS (as well as probably Laravel in the near future)
 
