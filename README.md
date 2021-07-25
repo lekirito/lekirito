@@ -2,7 +2,7 @@
 
 ### Read a little bio about me
 
-- 🔭 I’m currently working on projects related to Artificial Intellgence
+- 🔭 I’m currently working on projects related to Artificial Intelligence
 - 👨‍💻 Don't worry. I also code a lot as well.
 - 📚 I’m currently learning more JavaScript FrontEnd Framework, Flutter and NodeJS (as well as probably Laravel in the near future)
 
@@ -21,7 +21,7 @@
 
 <img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api?username=danialsim95&custom_title=Danial%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Danial's GitHub stats"/>
 
-<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api/top-langs/?username=danialsim95&count_private=true&theme=radical" alt="Danial's Top Languages"/>
+<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api/top-langs/?username=danialsim95&layout=compact&count_private=true&theme=radical" alt="Danial's Top Languages"/>
 
 <br/>
 
