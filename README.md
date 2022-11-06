@@ -14,14 +14,15 @@
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 <br/>
 
-<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api?username=danials011&custom_title=Danial%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Danial's GitHub stats"/>
+<img align="center" src="https://github-readme-stats-nj173m3s0-dans6101.vercel.app/api?username=dans6101&custom_title=Dan%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=301934" alt="Dan's GitHub stats"/>
 
-<img align="center" src="https://github-readme-stats-danialsim95.vercel.app/api/top-langs/?username=danials011&layout=compact&count_private=true&theme=radical" alt="Danial's Top Languages"/>
+<img align="center" src="https://github-readme-stats-nj173m3s0-dans6101.vercel.app/api/top-langs/?username=dans6101&layout=compact&count_private=true&theme=dracula&bg_color=301934" alt="Dan's Top Languages"/>
 
 <br/>
 
