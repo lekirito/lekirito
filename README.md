@@ -20,19 +20,13 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats-nj173m3s0-dans6101.vercel.app/api?username=dans6101&custom_title=Dan%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=301934" alt="Dan's GitHub stats"/>
-
-<img align="center" src="https://github-readme-stats-nj173m3s0-dans6101.vercel.app/api/top-langs/?username=dans6101&layout=compact&count_private=true&theme=dracula&bg_color=301934" alt="Dan's Top Languages"/>
-
-<br/>
-
 🔴 **NOTE: The top languages card above does not indicate my skill level or something like that (since I have private contributions) <br/>
 It's a GitHub metric of which languages that I have the most code on GitHub.**
 
 All cards shown above are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 <!--
-**danialsim95/danialsim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danjiro9445/danjiro9445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
