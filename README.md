@@ -18,13 +18,6 @@
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-<br/>
-
-🔴 **NOTE: The top languages card above does not indicate my skill level or something like that (since I have private contributions) <br/>
-It's a GitHub metric of which languages that I have the most code on GitHub.**
-
-All cards shown above are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
-
 <!--
 **danjiro9445/danjiro9445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
