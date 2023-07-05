@@ -2,8 +2,8 @@
 
 ### Read a little bio about me
 
-- 🔭 I’m currently working on projects related to Artificial Intelligence
-- 👨‍💻 Don't worry. I also code a lot as well.
+- 🔭 I’m currently working on projects related to Usability Engineering.
+- 👨‍💻 Don't worry. I usually code for work and as a hobby too!
 - 📚 I’m currently learning more JavaScript FrontEnd Framework, Flutter and NodeJS (as well as probably Laravel in the near future)
 
 <br/>
