@@ -1,4 +1,4 @@
-### Hello World 🌍 I am Kannao! <br/> Nice to meet you in this space!
+### Hello World 🌍 I am Kirito! <br/> Nice to meet you in this space!
 
 ### Read a little bio about me
 
@@ -20,7 +20,7 @@
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 <!--
-**lekannao/lekannao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lekirito/lekirito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
